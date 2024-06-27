@@ -1,2 +1,3 @@
 # VectorLib
-Adds the ability to work with vectors
+
+Library for working with vectors for VoxelEngine
